@@ -54,4 +54,3 @@ This project is **for educational and experimental purposes only**.
 ---
  ## Contact
   avrmicrotech@gmail.com
-هل ترغب أن أضيف أيضًا **قسم "Usage" (كيفية الاستخدام)** بالإنجليزية ليكون README كامل وجاهز للنشر على GitHub؟
