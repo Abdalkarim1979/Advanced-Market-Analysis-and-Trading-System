@@ -54,3 +54,14 @@ This project is **for educational and experimental purposes only**.
 ---
  ## Contact
   avrmicrotech@gmail.com
+<img width="1366" height="592" alt="image" src="https://github.com/user-attachments/assets/f7c7c20f-30cf-4c75-ac76-6c44dd3091f0" />
+<img width="1277" height="378" alt="image" src="https://github.com/user-attachments/assets/5a9d0415-8725-48b6-b142-b5e810c5c5a6" />
+<img width="1322" height="415" alt="image" src="https://github.com/user-attachments/assets/913ef6b6-77be-4a4f-b004-98df1b4ab21e" />
+<img width="1294" height="365" alt="image" src="https://github.com/user-attachments/assets/5c852e9c-c372-4511-8beb-d67e6b43797d" />
+<img width="1097" height="504" alt="image" src="https://github.com/user-attachments/assets/d98f9403-53ad-4836-b6cb-623664cbc8d6" />
+<img width="1163" height="416" alt="image" src="https://github.com/user-attachments/assets/6bd86c2c-bcb9-4577-882c-fb32b2b4c211" />
+
+
+
+
+
