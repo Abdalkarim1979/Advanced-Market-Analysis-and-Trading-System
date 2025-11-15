@@ -23,7 +23,7 @@ Follow these steps to run and use the **Advanced Market Analysis and Trading Sys
 ```bash
 git clone https://github.com/Abdalkarim1979/Advanced-Market-Analysis-and-Trading-System.git
 ```
-Or download the ZIP file directly from the [GitHub repository](https://github.com/Abdalkarim1979/Advanced-Market-Analysis-and-Trading-System).
+Or download the ZIP file directly from the [GitHub repository](https://github.com/Abdalkarim1979/Advanced-Market-Analysis-and-Trading-System/archive/refs/heads/main.zip).
 
 ---
 
