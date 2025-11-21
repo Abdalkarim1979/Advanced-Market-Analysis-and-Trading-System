@@ -57,6 +57,11 @@ Or download the ZIP file directly from the [GitHub repository](https://github.co
 - **Chart.js** for charts and visualizations  
 - **Font Awesome** for icons  
 - **html2canvas & RecordRTC** for saving analysis as text, image, or video  
+---
+## 🎯 Demo
+
+**Live Demo**:   
+https://advanced-market-analysis-and-tradin.vercel.app/
 
 ---
 
